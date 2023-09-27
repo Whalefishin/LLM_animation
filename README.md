@@ -16,7 +16,7 @@ The quoted texts are the prompts used to generate the animation.
 | :-------------: | :-------------: | 
 | "Flapping its tail" for a whale  | "Attempting to fly like a bird" for a whale |
 
-| <img src="/videos/pig_eat.gif" width="350" height="350"/> | <img src="/videos/pig_jump.gif" width="435" height="350"/>  |
+| <img src="/videos/pig_eat.gif" width="300" height="300"/> | <img src="/videos/pig_jump.gif" width="400" height="300"/>  |
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
