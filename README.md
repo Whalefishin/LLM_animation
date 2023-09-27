@@ -16,11 +16,11 @@ The texts in quotes are the prompts used to generate the animation.
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
-| ![result](videos/raccoon_disapproval.gif)| ![result](videos/raccoon_bow.gif)  |
+| ![result](videos/raccoon_disapproval.gif)| ![result]<img src="/videos/raccoon_bow.gif" width="250" height="250"/>  |
 | :-------------: | :-------------: | 
 | "Showing disapproval" for a raccoon | "Bowing" for a raccoon  |
 
-# Zero-shot
+### Zero-shot
 
 | ![result](videos/bird_flying_high_and_low.gif)| ![result](videos/stickman_cheering.gif)  | ![result](videos/person_jumping.gif)  |
 | :-------------: | :-------------: | :-------------: | 
