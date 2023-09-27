@@ -16,7 +16,7 @@ The texts in quotes are the prompts used to generate the animation.
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
-| <img src="/videos/raccoon_disapproval.gif" width="250" height="400"/>| <img src="/videos/raccoon_bow.gif" width="250" height="400"/>  |
+| <img src="/videos/raccoon_disapproval.gif" width="350" height="400"/>| <img src="/videos/raccoon_bow.gif" width="350" height="400"/>  |
 | :-------------: | :-------------: | 
 | "Showing disapproval" for a raccoon | "Bowing" for a raccoon  |
 
