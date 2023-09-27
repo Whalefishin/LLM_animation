@@ -9,21 +9,21 @@ The texts in quotes are the prompts used to generate the animation.
 ### Few-shot
 
 | ![result](videos/whale_head_moving.gif)| ![result](videos/whale_swim_aggressively.gif)  |
-| ------------- | ------------- | 
+| :-------------: | :-------------: | 
 | "Tilting its head" for a whale  | "Swimming aggressively" for a whale |
 
 | ![result](videos/pig_eat.gif)| ![result](videos/pig_jump.gif)  |
-| ------------- | ------------- | 
+| :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
 | ![result](videos/raccoon_disapproval.gif)| ![result](videos/raccoon_bow.gif)  |
-| ------------- | ------------- | 
+| :-------------: | :-------------: | 
 | "Showing disapproval" for a raccoon | "Bowing" for a raccoon  |
 
 # Zero-shot
 
 | ![result](videos/bird_flying_high_and_low.gif)| ![result](videos/stickman_cheering.gif)  | ![result](videos/person_jumping.gif)  |
-| ------------- | ------------- | ------------- | 
+| :-------------: | :-------------: | :-------------: | 
 | "Flying high and low" for a bird | "Cheering" for a stickman  | "Jumping" for a person  |
 
 
