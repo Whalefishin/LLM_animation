@@ -22,7 +22,7 @@ The quoted texts are the prompts used to generate the animation.
 
 ### Zero-shot
 
-| <img src="/videos/bird_flying_high_and_low.gif" width="200" height="150"/> |  <img src="/videos/stickman_cheering.gif" width="150" height="150"/> | <img src="/videos/person_jumping.gif" width="200" height="150"/>  |
+| <img src="/videos/bird_flying_high_and_low.gif" width="200" height="150"/> |  <img src="/videos/stickman_cheering.gif" width="150" height="150"/> | <img src="/videos/person_jumping.gif" width="300" height="150"/>  |
 | :-------------: | :-------------: | :-------------: | 
 | "Flying high and low" for a bird | "Cheering" for a stickman  | "Jumping" for a person  |
 
