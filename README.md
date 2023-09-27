@@ -23,7 +23,7 @@ The texts in quotes are the prompts used to generate the animation.
 # Zero-shot
 
 | ![result](videos/bird_flying_high_and_low.gif)| ![result](videos/stickman_cheering.gif)  | ![result](videos/person_jumping.gif)  |
-| ------------- | ------------- | 
+| ------------- | ------------- | ------------- | 
 | "Flying high and low" for a bird | "Cheering" for a stickman  | "Jumping" for a person  |
 
 
