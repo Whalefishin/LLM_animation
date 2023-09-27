@@ -12,6 +12,10 @@ The quoted texts are the prompts used to generate the animation.
 | :-------------: | :-------------: | 
 | "Tilting its head" for a whale  | "Swimming aggressively" for a whale |
 
+| <img src="/videos/whale_tail_flap.gif" width="375" height="200"/>| <img src="/videos/whale_attempting_to_fly.gif" width="375" height="200"/> |
+| :-------------: | :-------------: | 
+| "Flapping its tail" for a whale  | "Attempting to fly like a bird" for a whale |
+
 | <img src="/videos/pig_eat.gif" width="350" height="350"/> | <img src="/videos/pig_jump.gif" width="400" height="350"/>  |
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
