@@ -8,11 +8,11 @@ The texts in quotes are the prompts used to generate the animation.
 
 ### Few-shot
 
-| <img src="/videos/whale_head_moving.gif" width="350" height="200"/>| <img src="/videos/whale_swim_aggressively.gif" width="350" height="200"/> |
+| <img src="/videos/whale_head_moving.gif" width="400" height="200"/>| <img src="/videos/whale_swim_aggressively.gif" width="400" height="200"/> |
 | :-------------: | :-------------: | 
 | "Tilting its head" for a whale  | "Swimming aggressively" for a whale |
 
-| ![result](videos/pig_eat.gif)| ![result](videos/pig_jump.gif)  |
+| <img src="/videos/pig_eat.gif" width="350" height="400"/> | <img src="/videos/pig_jump.gif" width="350" height="400"/>  |
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
