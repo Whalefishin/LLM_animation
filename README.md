@@ -32,5 +32,6 @@ The quoted texts are the prompts used to generate the animation.
 
 
 ## Animation Control
-<!-- 
-<video src="videos/archer_walking_HD.mp4"></video> -->
+
+https://github.com/Whalefishin/LLM_animation/assets/21124870/6523ca9e-3f26-4b34-beeb-9a1c61f60eb5
+
