@@ -32,5 +32,5 @@ The quoted texts are the prompts used to generate the animation.
 
 
 ## Animation Control
-
-<video src="videos/archer_walking_HD.mp4"></video>
+<!-- 
+<video src="videos/archer_walking_HD.mp4"></video> -->
