@@ -12,7 +12,7 @@ The texts in quotes are the prompts used to generate the animation.
 | :-------------: | :-------------: | 
 | "Tilting its head" for a whale  | "Swimming aggressively" for a whale |
 
-| <img src="/videos/pig_eat.gif" width="350" height="350"/> | <img src="/videos/pig_jump.gif" width="350" height="350"/>  |
+| <img src="/videos/pig_eat.gif" width="350" height="350"/> | <img src="/videos/pig_jump.gif" width="400" height="350"/>  |
 | :-------------: | :-------------: | 
 | "Eating" for a pig | "Jumping" for a pig |
 
